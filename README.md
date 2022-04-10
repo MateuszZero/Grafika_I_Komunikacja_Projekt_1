@@ -3,7 +3,7 @@ Projekt nr 1 na przedmiot GiK
 
 OPIS:
 
-Projekt składający się z 4 programów, które można bardzo szybko i wygodnie otworzyć poprzez ikonki utworzone w głównym folderze projektu. Są to "1.GIK" oraz "2.EndlessRace" - pierwszy z nich służy do uruchomienia rysunku, krótkiej informacji o grze, rysunku inicjału za pomocą krzywej Beziera oraz wygenerowania kodu punktów Beziera czajnika Utah, filiżanki, oraz łyżeczki Utah do foldera "WspolrzedneDoModelu3D". W folderze "WspolrzedneWynik" zaś, znajdują się zrzuty ekranu z programów, które wyrysowały punkty Beziera, czerpiąc ze współrzych przetworzonych przez program "Dzbanek", ilustrując w ten sposób końcowe działanie programu. Drugi z nich - EndlessRace to gra samochodowa, którą uruchamiamy oddzielnie.
+Projekt składający się z 4 programów, które można bardzo szybko i wygodnie otworzyć poprzez pliki .JAR utworzone w głównym folderze projektu. Są to "GIK" oraz "EndlessRace" - pierwszy z nich służy do uruchomienia rysunku, krótkiej informacji o grze, rysunku inicjału za pomocą krzywej Beziera oraz wygenerowania kodu punktów Beziera czajnika Utah, filiżanki, oraz łyżeczki Utah do foldera "WspolrzedneDoModelu3D". W folderze "WspolrzedneWynik" zaś, znajdują się zrzuty ekranu z programów, które wyrysowały punkty Beziera, czerpiąc ze współrzych przetworzonych przez program "Dzbanek", ilustrując w ten sposób końcowe działanie programu. Drugi z nich - EndlessRace to gra samochodowa, którą uruchamiamy oddzielnie.
 W folderze "src" znajdują się kody źródłowe każdego z programów.
 
 Projekt składa się z:
